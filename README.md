@@ -1,7 +1,8 @@
-# blazor-mysql-info
-Some helpful info on setting up .NET 8 Blazor to use MySQL instead of MSSQL for Single-User Authentication
+# blazor-authentication-mysql
+### Some helpful info on setting up .NET 8 Blazor to use MySQL instead of MSSQL for Single-User Authentication
 
 Info originally came from: https://www.youtube.com/watch?v=tbkNNVr4Pto
+
 Original pastebin: https://pastebin.com/51tDLh5F
 
 1. Create Blazor Server Web App with Single-User Authentication enabled
