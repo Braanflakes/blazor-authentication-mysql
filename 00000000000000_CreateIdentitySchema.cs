@@ -4,7 +4,7 @@ using System;
 
 #nullable disable
 
-namespace estym8_blazor.Migrations
+namespace CHANGEME.Migrations
 {
     /// <inheritdoc />
     public partial class CreateIdentitySchema : Migration
